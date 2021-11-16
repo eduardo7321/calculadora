@@ -1,4 +1,9 @@
 # calculator
+```
+Projeto realizado apartir do curso web moderno do professor Leonardfo Leitão.
+O deploy foi feito no netfly e pode ser acessado em:
+https://serene-goldberg-92102a.netlify.app/
+```
 
 ## Project setup
 ```
