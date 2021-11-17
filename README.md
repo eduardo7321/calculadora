@@ -1,28 +1,28 @@
-#Calculator project
+# Calculator project
 
->Project carried out from the modern web course of Professor Leonardfo Leitão.
+> Project carried out from the modern web course of Professor Leonardfo Leitão.
 The deployment was done on netfly and can be accessed at:
 [projeto calculadora em vue](https://serene-goldberg-92102a.netlify.app/)
 
-##Project setup
+## Project setup
 ```npm install```
 
-##Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```npm run serve```
 
-##Compiles and minifies for production
+## Compiles and minifies for production
 ````npm run build````
 
-##Lints and fixes files
+## Lints and fixes files
 ````npm run lint````
 
-##calculator image
+## Calculator image
 
-![](https://github.com/eduardo7321/calculadora/src/images/calculator.PNG)
+![] (https://github.com/eduardo7321/calculadora/src/images/calculator.png)
 
-##Some codes used
+## Some codes used
 
-####main.js
+#### main.js
 
 ```javascript
 import Vue from 'vue'
@@ -33,7 +33,7 @@ new Vue({
 }).$mount("#app")
 ```
 
-####Calculator.vue code
+#### Calculator.vue code
 
 ```vue
 <template>
