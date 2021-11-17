@@ -1,6 +1,6 @@
 # Calculator project
 
-> Project carried out from the modern web course of Professor Leonardfo Leitão.
+> Project carried out from the modern web course of Professor Leonardo Leitão.
 The deployment was done on netfly and can be accessed at:
 [projeto calculadora em vue](https://serene-goldberg-92102a.netlify.app/)
 
