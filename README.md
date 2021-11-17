@@ -18,7 +18,7 @@ The deployment was done on netfly and can be accessed at:
 
 ## Calculator image
 
-![] (https://github.com/eduardo7321/calculadora/src/images/calculator.png)
+![Calculator](/src/images/calculator.PNG)
 
 ## Some codes used
 
